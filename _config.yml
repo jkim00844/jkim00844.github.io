@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "jkim00844.log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "jkim00844"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://jkim00844.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
