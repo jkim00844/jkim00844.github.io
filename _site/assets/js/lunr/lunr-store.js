@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"Welcome   Hello world, this is my first Jekyll blog post.   I hope you like it!  ","categories": ["welcome"],
-        "tags": ["hello"],
-        "url": "/welcome/welcome/",
+        "title": "인프콘 2023",
+        "excerpt":"스프링과 함께 더 나은 개발자 되기 - 이일민(토비) 과연 이 기술을 실전에서 사용할 수 있을까? 기술의 등장 배경 확인 신뢰할 수 있는 개발자의 추천 도전하고 싶은 마음을 만들기 사용한 기술과 작성한 코드에 대한 끊임 없는 질문 내가 사용하는 기술은 왜 이렇게 만들어졌는가? 나는 왜 이렇게 설계하고 코드를 작성하는 가? 장단점은...","categories": ["seminar"],
+        "tags": ["infcon","spring"],
+        "url": "/seminar/infcon2023-spring/",
         "teaser": null
       }]
